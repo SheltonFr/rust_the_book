@@ -11,9 +11,9 @@ Rust's documentation: ***Rust the Book***!
 
 ## Content
 
-| Chapter No.     | Chapter Title   | Status   | Url    |
-|---------------- | --------------- | -------- | ------ |
-| 1 | Getting Started     | <span style='color: green'>Done</span> | |
-| 2 | Programming Guessing Game | <span style='color: green'>Done</span> | |
-| 3 | Common Programming Cncepts | <span style='color: green'>Done</span> | |
-| 4 | Understanding Ownership | <span style='color: yellow'>In Progress</span> | |
+| Chapter No.     | Chapter Title   | Status   |
+|---------------- | --------------- | -------- |
+| 1 | Getting Started     | <span style='color: green'>Done</span> |
+| 2 | Programming Guessing Game | <span style='color: green'>Done</span> |
+| 3 | Common Programming Cncepts | <span style='color: green'>Done</span> |
+| 4 | [Understanding Ownership](https://github.com/SheltonFr/rust_the_book/tree/main/4.understanding_ownership) | <span style='color: yellow'>In Progress</span> |
